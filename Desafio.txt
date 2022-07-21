@@ -1,0 +1,8 @@
+Mi idea de este trabajo fue hacer un juego sobre zombies. Pero solo agregue un
+zombie el cual persigue al jugador (tambien se puede elegir que solo lo observe).
+
+El jugador se mueve con la camara en primera persona y puede tirar granadas con la G 
+(la idea era que explotara el zombie)
+
+Si el jugador colisiona con el zombie o viceversa el juego avisa contra que esta colisionando. 
+Tambien se puede colisionar con las paredes.
