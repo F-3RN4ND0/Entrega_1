@@ -1,8 +1,12 @@
-Mi idea de este trabajo fue hacer un juego sobre zombies. Pero solo agregue un
-zombie el cual persigue al jugador (tambien se puede elegir que solo lo observe).
+Mi idea de este trabajo fue hacer un juego de zombies. Pero solo agregue un solo
+zombie (porque no tuve mucho tiempo esta semana) el cual observa al jugador o tambien se puede elegir que lo persiga (este es el switch).
 
-El jugador se mueve con la camara en primera persona y puede tirar granadas con la G 
-(la idea era que explotara el zombie)
+El jugador se mueve con la camara en primera persona y puede tirar granadas con la G, la cual tiene un
+efecto de explosion. Un temporizador es el tiempo que tarda la granada en explotar y el otro es el tiempo que tarda en desaparecer el efecto de explosion.
 
 Si el jugador colisiona con el zombie o viceversa el juego avisa contra que esta colisionando. 
-Tambien se puede colisionar con las paredes.
+Tambien se puede colisionar con las paredes y dice con que pared esta colisionando (pero cada vez que colisiona con algo se queda deslizando 
+el personaje y no entiendo porque).
+
+Le puse animaciones al personaje cuando esta quieto y cuando camina, pero no supe como hacer que 
+cambie a la animacion de correr. El zombie tiene 2 animaciones.
